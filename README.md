@@ -1,4 +1,6 @@
 # Data & KI-Plattform – Beispielprojekt
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjozrftamson%2Fdata-engineering-pipeline-project.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjozrftamson%2Fdata-engineering-pipeline-project?ref=badge_shield)
+
 
 ## Projektbeschreibung
 
@@ -89,3 +91,7 @@ Das Projekt ist so aufgebaut, dass eine enge Zusammenarbeit mit AI-, Produkt- un
 ## Kontakt
 
 Für Fragen oder Anregungen wenden Sie sich bitte an das Projektteam.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjozrftamson%2Fdata-engineering-pipeline-project.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjozrftamson%2Fdata-engineering-pipeline-project?ref=badge_large)
